@@ -1,3 +1,10 @@
+# Global
+*.pdf
+/csv
+/tmp
+/output
+/databases
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
